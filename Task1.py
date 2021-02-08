@@ -1,6 +1,6 @@
 """
-Q] Using a for loop, print a table of powers of x, where x ranges from 1 to 10. For each
-value x, print the quantity x, x 2 , and x 3 . Using tab characters in your print statement
+Q] Using a for loop, print a table of multiples of x, where x ranges from 1 to 10. For each
+value x, print the quantity x, x*2 , and x*3 . Using tab characters in your print statement
 to make the values line up nicely.
 """
 
